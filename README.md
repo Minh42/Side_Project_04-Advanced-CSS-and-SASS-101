@@ -1,5 +1,5 @@
 # Side_Project_04-Advanced-CSS-and-SASS-101
-![Screenshot landing](https://i.imgur.com/p9sHzls.png)
+![Screenshot landing](https://i.imgur.com/k2OgrPI.jpg)
 
 ## Overview
 Learning advanced css and sass 101
