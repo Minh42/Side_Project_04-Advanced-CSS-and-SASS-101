@@ -1,5 +1,5 @@
 # 42_project-hypertube
-![Screenshot landing](https://imgur.com/p9sHzls)
+![Screenshot landing](https://i.imgur.com/p9sHzls.png)
 
 ## Overview
 Learning advanced css and sass 101
