@@ -9,8 +9,11 @@ Learning advanced css and sass 101
 + Front-end: React, HTML, CSS, Sass
 
 ## Key concepts
-* Flexbox
-* Use of SVGs
-* Media queries
-* Advanced css properties
-* Supports for older navigators
+* How CSS works behind the scene
+* CSS animations
+* CSS architecture
+* BEM methodology
+* SaSS (variables, nesting, mixins, functions)
+* Custome Grid
+* Checkbox hack
+* Pure CSS Popup
